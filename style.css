@@ -1,0 +1,74 @@
+* {
+    background-color: blanchedalmond;
+}
+
+header {
+
+    position: absolute;
+}
+
+.huvud {
+    text-align: center;
+    width: 100%;
+}
+
+.meny {
+
+    position: absolute;
+    top: 35vh;
+    list-style-type: none;
+}
+
+.info {
+
+    position: absolute;
+    top: 35vh;
+    left: 35vw;
+    width: 470px;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-bottom: #dddddd;
+    width: 60%;
+
+}
+
+#tabell-rubrik {
+    font-size: medium;
+    text-align: center;
+    padding: 5px;
+
+
+}
+
+td,
+th {
+
+    text-align: left;
+    padding: 2px;
+    text-align: center;
+    left: 300vw;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+#bli-medlem {
+    text-align: center;
+}
+
+body .hästar ul li {
+    left: 30vw;
+    height: 1vh;
+    position: absolute;
+    top: 70 vh;
+}
+#skiss {
+    position: absolute;
+    top: 45vh;
+    left: 35vw;
+    width: 470px;
+}
